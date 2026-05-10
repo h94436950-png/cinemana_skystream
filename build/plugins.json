@@ -1,0 +1,20 @@
+[
+  {
+    "packageName": "com.cinemana.skystream",
+    "name": "Cinemana",
+    "version": 1,
+    "baseUrl": "https://cinemana.shabakaty.cc",
+    "description": "شبكتي سينيما - أفلام ومسلسلات عربية",
+    "authors": [
+      "Developer"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "categories": [
+      "Movies",
+      "Series"
+    ],
+    "url": "https://raw.githubusercontent.com/USERNAME/REPO/build/com.cinemana.skystream.sky"
+  }
+]
