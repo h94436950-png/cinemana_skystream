@@ -1,0 +1,9 @@
+{
+  "name": "Cinemana SkyStream",
+  "packageName": "com.cinemana.skystream",
+  "description": "شبكتي سينيما - إضافة SkyStream للأفلام والمسلسلات العربية",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/USERNAME/REPO/build/plugins.json"
+  ]
+}
