@@ -4,6 +4,6 @@
   "description": "قنوات IPTV عربية مجانية - iptv-org",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/USERNAME/REPO/build/plugins.json"
+    "https://raw.githubusercontent.com/h94436950-png/cinemana_skystream/main/dact/plugins.json"
   ]
 }
