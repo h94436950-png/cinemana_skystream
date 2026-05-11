@@ -1,0 +1,19 @@
+[
+  {
+    "packageName": "com.iptv.arabic",
+    "name": "IPTV Arabic",
+    "version": 1,
+    "baseUrl": "https://iptv-org.github.io",
+    "description": "قنوات IPTV عربية مجانية - iptv-org",
+    "authors": [
+      "Developer"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "categories": [
+      "Live TV"
+    ],
+    "url": "https://raw.githubusercontent.com/USERNAME/REPO/build/com.iptv.arabic.sky"
+  }
+]
