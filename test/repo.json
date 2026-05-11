@@ -1,0 +1,9 @@
+{
+  "name": "IPTV Arabic",
+  "packageName": "com.iptv.arabic",
+  "description": "قنوات IPTV عربية مجانية - iptv-org",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/USERNAME/REPO/build/plugins.json"
+  ]
+}
